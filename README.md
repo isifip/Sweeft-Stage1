@@ -4,7 +4,7 @@
 <img width="2672" alt="Task1" src="https://user-images.githubusercontent.com/93344944/176994594-b422f298-162f-4650-aff2-a4736da3ff76.png">
 
 დავალება 2:
-<img width="2560" alt="Task2" src="https://user-images.githubusercontent.com/93344944/176994601-ccee4681-7521-40d0-b353-ee7094075a50.png">
+<img width="2672" alt="Task2" src="https://user-images.githubusercontent.com/93344944/176994732-fbeda663-6684-46b2-a0a4-bf6ec64c9c52.png">
 
 დავალება 3:
 <img width="2672" alt="Task3" src="https://user-images.githubusercontent.com/93344944/176994615-8d5aeb6c-6d8d-45f0-b58b-140e185818ca.png">
